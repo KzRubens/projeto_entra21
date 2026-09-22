@@ -1,0 +1,6 @@
+{
+  "name": "Cuida-me",
+  "description": "Cuidar é um ato de amor. Plataforma completa para conexão, contratação e gestão de rotinas de cuidadores e famílias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
